@@ -1,0 +1,616 @@
+
+* {
+    margin: 0px;
+    padding: 0;
+}
+/*header section template styling*/
+
+#header {
+    border-bottom: 8px solid #ff6600;
+    font-family: 'Raleway', sans-serif;
+    width: 1890px;
+    top: 0;
+    min-width: 500px;
+    background-color: #fff!important;
+}
+
+#header img {
+    padding: 8px 8px 4px 32px;
+}
+
+h2 {
+    font-size: large;
+}
+#steps{
+    margin-top: 20px;
+    font-size: 30px;
+}
+ol{
+    margin-left: 50px;
+
+}
+#labName {
+    float: right;
+    font-size: 25px;
+    align-items: center;
+    margin-top: 30px;
+    margin-right: 40px;
+    color: #2C99CE;
+}
+
+#exp-name {
+    width: 1890px;
+    text-align: center;
+    padding: 10px;
+    height: 20px;
+    color: #2C99CE;
+    font-family: 'Raleway', sans-serif;
+    border-bottom: 1px solid #333;
+}
+#restart{
+
+    margin-top: 50px;
+    margin-left: 300px;
+     height: 700px;
+     width: 1000px;
+     background-color: white;
+     border: 3px solid black;
+     border-radius: 10px;
+ }
+ 
+#main{
+
+   margin-top: 50px;
+   margin-left: 300px;
+    height: 700px;
+    width: 1000px;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+#main2{
+
+    margin-top: 50px;
+    margin-left: 300px;
+     height: 700px;
+     width: 1000px;
+     background-color: white;
+     border: 3px solid black;
+     border-radius: 10px;
+ }
+ #main3{
+
+    margin-top: 50px;
+    margin-left: 300px;
+     height: 700px;
+     width: 1000px;
+     background-color: white;
+     border: 3px solid black;
+     border-radius: 10px;
+ }
+ #restart_button{
+    margin-left: 450px;
+    margin-top: 220px;
+    height: 70px;
+    width: 150px;
+    font-size: large;
+    color:black;
+    background-color: #23B2EE;
+    font-weight: bold;
+    border: 3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#restart_para{
+        font-size: 30px;
+        margin-top: 30px;
+        margin-left: 200px;
+        font-weight: bold;
+}
+#start{
+margin-left: 450px;
+margin-top: 200px;
+height: 40px;
+width: 120px;
+font-size: medium;
+color:black;
+background-color: #23B2EE;
+font-weight: bold;
+border: 3px solid black;
+border-radius: 10px;
+cursor: pointer;
+}
+#quit{
+    margin-left: 450px;
+    margin-top: 180px;
+    height: 40px;
+    width: 120px;
+    font-size: medium; 
+    color:black;
+    background-color: #23B2EE;
+    font-weight: bold;
+    border: 3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#obj{
+    margin-left: 400px;
+    margin-top: 150px;
+    height: 60px;
+    width:250px;
+    font-size: medium;
+    color: black;
+    background-color: #23B2EE;
+    font-weight: bold;
+    border: 3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+    #exp_details{
+        margin-left: 400px;
+        margin-top: 150px;
+        height: 60px;
+        width: 250px;
+        font-size: medium; 
+        color: black;
+        background-color:#23B2EE;
+        font-weight: bold;
+        border: 3px solid black;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    #back{
+    margin-left: 830px;
+    margin-top: 200px;
+    height: 50px;
+    width:100px;
+    font-size: medium;
+    color: black;
+    background-color: #23B2EE;
+    font-weight: bold;
+    border: 3px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    }
+    #obj_heading{
+       font-size: 30px;
+        margin-left:400px ;
+        margin-top: 100px;
+        
+        color: black;
+        font-weight: bold;
+    }
+    #obj_para{
+        padding: 10px;
+        margin-top: 80px;
+        font-size: 30px;
+        color: black;
+        font-weight: bold;
+    }
+    #gps_type{
+        margin-top: 200px;
+        margin-left: 200px;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    #back_4{
+        margin-left: 700px;
+        margin-top: 200px;
+        height: 50px;
+        width:100px;
+        font-size: medium;
+        color: black;
+        background-color: #23B2EE;
+        font-weight: bold;
+        border: 3px solid black;
+        border-radius: 10px;
+        cursor: pointer;
+        }
+        #next{
+            margin-left: 30px;
+            margin-top: 200px;
+            height: 50px;
+            width:100px;
+            font-size: medium;
+            color: black;
+            background-color: #23B2EE;
+            font-weight: bold;
+            border: 3px solid black;
+            border-radius: 10px;
+            cursor: pointer;
+            }
+            #gps_head1
+            { 
+            margin-top: 25px;
+            padding-left: 25px;
+            font-weight: bold;
+            font-size: 30px;
+            text-align: justify;
+        }
+        #gps_para1{
+             
+        padding-left: 55px;
+        padding-right: 50px;
+        font-weight: bold;
+        font-size: 25px;
+        text-align: justify;
+        }
+        #gps_head2{
+            margin-top: 100px;
+            padding-left: 25px;
+            font-weight: bold;
+            font-size: 30px;
+            text-align: justify;
+        }
+        
+        #gps_para2{
+             
+            padding-left: 55px;
+            padding-right: 50px;
+            font-weight: bold;
+            font-size: 25px;
+            text-align: justify;
+            }
+        #controller_img{
+
+            float: right;
+            height: 160px;
+            width: 200px;
+            
+        }
+        @keyframes spin_tri {
+            from{
+                transform: rotateY(0deg);
+                /*-ms-transform: rotateY(0deg);*/
+            }
+            to{
+              transform: rotateY(360deg);
+             /* -ms-transform: rotateY(360deg);*/
+          }
+              
+            }
+            .tripod_spin{
+
+              animation-name: spin_tri;
+              animation-timing-function: linear;
+              animation-iteration-count: infinite;
+              animation-duration: 10s;
+            }
+            @keyframes spin_con {
+                from{
+                    transform: rotateY(0deg);
+                    /*-ms-transform: rotateY(0deg);*/
+                }
+                to{
+                  transform: rotateY(360deg);
+                 /* -ms-transform: rotateY(360deg);*/
+              }
+                  
+                }
+                .control_spin{
+    
+                  animation-name: spin_con;
+                  animation-timing-function:linear;
+                  animation-iteration-count: infinite;
+                  animation-duration: 4s;
+                }
+        #receiver_img
+        {
+            float: right;
+            height: 150px;
+            width: 220px;
+        }
+        @keyframes spin_rec {
+            from{
+                transform: rotateY(0deg);
+                /*-ms-transform: rotateY(0deg);*/
+            }
+            to{
+              transform: rotateY(360deg);
+             /* -ms-transform: rotateY(360deg);*/
+          }
+              
+            }
+            .receiver_spin{
+
+              animation-name: spin_rec;
+              animation-timing-function: linear;
+              animation-iteration-count: infinite;
+              animation-duration: 10s;
+            }
+            @keyframes spin_bat {
+                from{
+                    transform: rotateY(0deg);
+                    /*-ms-transform: rotateY(0deg);*/
+                }
+                to{
+                  transform: rotateY(360deg);
+                 /* -ms-transform: rotateY(360deg);*/
+              }
+                  
+                }
+                .battery_spin{
+    
+                  animation-name: spin_bat;
+                  animation-timing-function: linear;
+                  animation-iteration-count: infinite;
+                  animation-duration: 10s;
+                }
+        
+        #back_cr
+        {
+            margin-left: 620px;
+            margin-top: 205px;
+            height: 50px;
+            width:100px;
+            font-size: medium;
+            color: black;
+            background-color: #23B2EE;
+            font-weight: bold;
+            border: 3px solid black;
+            border-radius: 10px;
+            cursor: pointer;
+            float: left;
+            }
+        #next_cr
+        {
+            margin-left: 40px;
+            margin-top: 109px;
+            height: 50px;
+            width:100px;
+            font-size: medium;
+            color: black;
+            background-color: #23B2EE;
+            font-weight: bold;
+            border: 3px solid black;
+            border-radius: 10px;
+            cursor: pointer;
+            float: left;
+            }
+            #back_bt
+            {
+                margin-left: 620px;
+                margin-top: 240px;
+                height: 50px;
+                width:100px;
+                font-size: medium;
+                color: black;
+                background-color: #23B2EE;
+                font-weight: bold;
+                border: 3px solid black;
+                border-radius: 10px;
+                cursor: pointer;
+                float: left;
+                }
+            #next_bt
+            {
+                margin-left: 40px;
+                margin-top: 109px;
+                height: 50px;
+                width:100px;
+                font-size: medium;
+                color: black;
+                background-color: #23B2EE;
+                font-weight: bold;
+                border: 3px solid black;
+                border-radius: 10px;
+                cursor: pointer;
+                float: left;
+                }
+                #geogps_head
+                { 
+                margin-top: 25px;
+                padding-left: 25px;
+                font-weight: bold;
+                font-size: 28px;
+                text-align: justify;
+            }
+                #geogps_img{
+
+                    height:300px;
+                    width:300px;
+                    margin-left: 350px;
+                    
+                }
+                @keyframes spin_geo {
+                  from{
+                      transform: rotateY(0deg);
+                      /*-ms-transform: rotateY(0deg);*/
+                  }
+                  to{
+                    transform: rotateY(360deg);
+                   /* -ms-transform: rotateY(360deg);*/
+                }
+                    
+                  }
+                  .imagespin{
+
+                    animation-name: spin_geo;
+                    animation-timing-function: linear;
+                    animation-iteration-count: infinite;
+                    animation-duration: 10s;
+                  }
+                #geogps_para{
+                    padding-left: 55px;
+                    padding-right: 50px;
+                    font-weight: bold;
+                    font-size: 23px;
+                    text-align: justify;
+                    margin-top: 20px;
+
+                }
+                #back_geogps
+            {
+                margin-left: 620px;
+                margin-top: 100px;
+                height: 50px;
+                width:100px;
+                font-size: medium;
+                color: black;
+                background-color: #23B2EE;
+                font-weight: bold;
+                border: 3px solid black;
+                border-radius: 10px;
+                cursor: pointer;
+                float: left;
+                }
+            #next_geogps
+            {
+                margin-left: 40px;
+                margin-top: 100px;
+                height: 50px;
+                width:100px;
+                font-size: medium;
+                color: black;
+                background-color: #23B2EE;
+                font-weight: bold;
+                border: 3px solid black;
+                border-radius: 10px;
+                cursor: pointer;
+                float: left;
+                }
+                #navgps_head
+                { 
+                margin-top: 25px;
+                padding-left: 25px;
+                font-weight: bold;
+                font-size: 28px;
+                text-align: justify;
+            }
+                #navgps_img{
+
+                    height:300px;
+                    width:300px;
+                    margin-left: 350px;
+                    
+                }
+                #navgps_para{
+                    padding-left: 55px;
+                    padding-right: 50px;
+                    font-weight: bold;
+                    font-size: 23px;
+                    text-align: justify;
+                    margin-top: 20px;
+
+                }
+                #back_navgps
+            {
+                margin-left: 620px;
+                margin-top: 100px;
+                height: 50px;
+                width:100px;
+                font-size: medium;
+                color: black;
+                background-color: #23B2EE;
+                font-weight: bold;
+                border: 3px solid black;
+                border-radius: 10px;
+                cursor: pointer;
+                float: left;
+                }
+            #next_navgps
+            {
+                margin-left: 40px;
+                margin-top: 100px;
+                height: 50px;
+                width:100px;
+                font-size: medium;
+                color: black;
+                background-color: #23B2EE;
+                font-weight: bold;
+                border: 3px solid black;
+                border-radius: 10px;
+                cursor: pointer;
+                float: left;
+                }
+                @keyframes spin_nav {
+                    from{
+                        transform: rotateY(0deg);
+                        /*-ms-transform: rotateY(0deg);*/
+                    }
+                    to{
+                      transform: rotateY(360deg);
+                     /* -ms-transform: rotateY(360deg);*/
+                  }
+                      
+                    }
+                    .nav_spin{
+  
+                      animation-name: spin_nav;
+                      animation-timing-function: linear;
+                      animation-iteration-count: infinite;
+                      animation-duration: 10s;
+                    }
+                #satellite1_img{
+
+                    height:200px;
+                    width:400px;
+                    margin-left: 100px;
+                    float: left;
+                    margin-top: 50px;
+                    
+                }
+                #satellite2_img{
+
+                    height:200px;
+                    width:400px;
+                    margin-top: 50px;
+                    margin-left: 100px;
+                    float: left;
+                    
+                }
+                @keyframes spin_sat1 {
+                    from{
+                        transform: rotateY(0deg);
+                        /*-ms-transform: rotateY(0deg);*/
+                    }
+                    to{
+                      transform: rotateY(360deg);
+                     /* -ms-transform: rotateY(360deg);*/
+                  }
+                      
+                    }
+                    .satellite1_spin{
+        
+                        animation-name: spin_sat1;
+                        animation-timing-function:linear;
+                        animation-iteration-count: infinite;
+                        animation-duration: 30s;
+                      }
+                    @keyframes spin_sat2 {
+                        from{
+                            transform: rotateY(0deg);
+                            /*-ms-transform: rotateY(0deg);*/
+                        }
+                        to{
+                          transform: rotateY(360deg);
+                         /* -ms-transform: rotateY(360deg);*/
+                      }
+                          
+                        }
+                    
+                    .satellite2_spin{
+        
+                        animation-name: spin_sat2;
+                        animation-timing-function:linear;
+                        animation-iteration-count: infinite;
+                        animation-duration: 5s;
+                      }
+                #back_satellite
+                {
+                    margin-left: 820px;
+                    margin-top: 200px;
+                    height: 50px;
+                    width:100px;
+                    font-size: medium;
+                    color: black;
+                    background-color: #23B2EE;
+                    font-weight: bold;
+                    border: 3px solid black;
+                    border-radius: 10px;
+                    cursor: pointer;
+                    float: left;
+                    }
+                
+            
+            

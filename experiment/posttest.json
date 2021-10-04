@@ -1,39 +1,4 @@
 {
   "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+  "questions":[{"question":"Which of the following can be affected by atmospheric path disturbances?","answers":{"a":"Modern GPS surveying","b":"Conventional GPS","c":"Absolute positioning","d":"Resection method"},"correctAnswer":"a"},{"question":"Which among the following can be described as an application of pseudo ranging?","answers":{"a":"Computation of distance between satellite and user","b":"Computation of distance between GPS antenna and satellite","c":"Computation of distance between GPS antenna and user","d":"Computation of distance between satellite and object"},"correctAnswer":"a"},{"question":"Which of the following is not used in the tracking system?","answers":{"a":"Dual frequency","b":"Single frequency","c":"Multiple frequency","d":"Military navigation"},"correctAnswer":"c"},{"question":"Which of the following doesn’t belong to the relative positioning techniques?","answers":{"a":"Viscous GPS technique","b":"Real-time kinematic technique","c":"Kinematic GPS surveying technique","d":"Differential GPS technique"},"correctAnswer":"a"},{"question":"Which of the following error occurs due to atmospheric conditions?","answers":{"a":"Natural error","b":"User error","c":"Signal multipath error","d":"Propagation error"},"correctAnswer":"c"}]
 }

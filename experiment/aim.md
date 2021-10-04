@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### Study of Global Positiong System and its Accessories to find out location of various points.
