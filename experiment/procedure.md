@@ -6,5 +6,6 @@ Step-3) After click on the Start Button, two buttons will appear i.e.OBJECTIVE O
 Step-4)	OBJECTIVE OF EXPERIMENT Button: This section is used to give the objective of the experiment.<br>
 Step-5)	EQUIPMENT DETAILS Button:This button will give all the details of the equipments used to demonstrate experiement.<br>
 Step-6) Quit Button:It is used to take a exit from the experiment.<br>
-Step-6) Use Back Button & Next Button to move backward & forward.<br>
+Step-7) Use Back Button & Next Button to move backward & forward.<br>
+Step-8) Use Finish Button to restart the experiment.<br>
 

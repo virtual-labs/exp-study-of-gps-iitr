@@ -1,1 +1,1 @@
-## Study of GPS and Its Accessories.
+## Study of GPS and its accessories.
