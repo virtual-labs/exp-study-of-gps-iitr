@@ -1,1 +1,1 @@
-## Experiment name
+## Study of GPS and its accessories.
