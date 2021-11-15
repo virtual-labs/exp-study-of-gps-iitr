@@ -1,0 +1,1 @@
+#### Study of global positiong system and its accessories to find out location of various points.
